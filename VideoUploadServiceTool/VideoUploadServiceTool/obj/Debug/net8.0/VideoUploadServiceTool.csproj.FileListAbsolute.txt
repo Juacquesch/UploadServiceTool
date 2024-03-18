@@ -1,0 +1,15 @@
+G:\HvA\GitHub\programming\C#\VideoUploadServiceTool\VideoUploadServiceTool\bin\Debug\net8.0\VideoUploadServiceTool.exe
+G:\HvA\GitHub\programming\C#\VideoUploadServiceTool\VideoUploadServiceTool\bin\Debug\net8.0\VideoUploadServiceTool.deps.json
+G:\HvA\GitHub\programming\C#\VideoUploadServiceTool\VideoUploadServiceTool\bin\Debug\net8.0\VideoUploadServiceTool.runtimeconfig.json
+G:\HvA\GitHub\programming\C#\VideoUploadServiceTool\VideoUploadServiceTool\bin\Debug\net8.0\VideoUploadServiceTool.dll
+G:\HvA\GitHub\programming\C#\VideoUploadServiceTool\VideoUploadServiceTool\bin\Debug\net8.0\VideoUploadServiceTool.pdb
+G:\HvA\GitHub\programming\C#\VideoUploadServiceTool\VideoUploadServiceTool\obj\Debug\net8.0\VideoUploadServiceTool.GeneratedMSBuildEditorConfig.editorconfig
+G:\HvA\GitHub\programming\C#\VideoUploadServiceTool\VideoUploadServiceTool\obj\Debug\net8.0\VideoUploadServiceTool.AssemblyInfoInputs.cache
+G:\HvA\GitHub\programming\C#\VideoUploadServiceTool\VideoUploadServiceTool\obj\Debug\net8.0\VideoUploadServiceTool.AssemblyInfo.cs
+G:\HvA\GitHub\programming\C#\VideoUploadServiceTool\VideoUploadServiceTool\obj\Debug\net8.0\VideoUploadServiceTool.csproj.CoreCompileInputs.cache
+G:\HvA\GitHub\programming\C#\VideoUploadServiceTool\VideoUploadServiceTool\obj\Debug\net8.0\VideoUploadServiceTool.sourcelink.json
+G:\HvA\GitHub\programming\C#\VideoUploadServiceTool\VideoUploadServiceTool\obj\Debug\net8.0\VideoUploadServiceTool.dll
+G:\HvA\GitHub\programming\C#\VideoUploadServiceTool\VideoUploadServiceTool\obj\Debug\net8.0\refint\VideoUploadServiceTool.dll
+G:\HvA\GitHub\programming\C#\VideoUploadServiceTool\VideoUploadServiceTool\obj\Debug\net8.0\VideoUploadServiceTool.pdb
+G:\HvA\GitHub\programming\C#\VideoUploadServiceTool\VideoUploadServiceTool\obj\Debug\net8.0\VideoUploadServiceTool.genruntimeconfig.cache
+G:\HvA\GitHub\programming\C#\VideoUploadServiceTool\VideoUploadServiceTool\obj\Debug\net8.0\ref\VideoUploadServiceTool.dll

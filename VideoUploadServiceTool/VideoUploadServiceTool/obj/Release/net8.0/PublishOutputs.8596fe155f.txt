@@ -1,0 +1,5 @@
+G:\HvA\GitHub\programming\C#\VideoUploadServiceTool\VideoUploadServiceTool\bin\Release\net8.0\publish\VideoUploadServiceTool.exe
+G:\HvA\GitHub\programming\C#\VideoUploadServiceTool\VideoUploadServiceTool\bin\Release\net8.0\publish\VideoUploadServiceTool.dll
+G:\HvA\GitHub\programming\C#\VideoUploadServiceTool\VideoUploadServiceTool\bin\Release\net8.0\publish\VideoUploadServiceTool.deps.json
+G:\HvA\GitHub\programming\C#\VideoUploadServiceTool\VideoUploadServiceTool\bin\Release\net8.0\publish\VideoUploadServiceTool.runtimeconfig.json
+G:\HvA\GitHub\programming\C#\VideoUploadServiceTool\VideoUploadServiceTool\bin\Release\net8.0\publish\VideoUploadServiceTool.pdb
